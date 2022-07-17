@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1657153067,
-        "narHash": "sha256-jTeG6m38A9DvPCjIRUEidCKQChG9keWze1/FFFJnjV4=",
+        "lastModified": 1658018045,
+        "narHash": "sha256-3TRHdSG6jZhsCy5mkJrIBX2zQk1W5aRFpBSQ8bWCN58=",
         "owner": "nim-nix-pkgs",
         "repo": "mealdb",
-        "rev": "f06451aa88b42283aaa30bb86eabc60c2e6c5604",
+        "rev": "ddc2c5d1ab796e0b6a88e136552436935ac94147",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1657153067,
-        "narHash": "sha256-jTeG6m38A9DvPCjIRUEidCKQChG9keWze1/FFFJnjV4=",
+        "lastModified": 1658018045,
+        "narHash": "sha256-3TRHdSG6jZhsCy5mkJrIBX2zQk1W5aRFpBSQ8bWCN58=",
         "owner": "nim-nix-pkgs",
         "repo": "mealdb",
-        "rev": "f06451aa88b42283aaa30bb86eabc60c2e6c5604",
+        "rev": "ddc2c5d1ab796e0b6a88e136552436935ac94147",
         "type": "github"
       },
       "original": {
